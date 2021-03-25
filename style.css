@@ -58,6 +58,14 @@ article {
     margin: 22px;
 }
 
+article h2 {
+    text-align:center;
+}
+
+article p {
+    text-align:center;
+}
+
 .article-but {
     text-decoration: none;
     background-color: grey;
@@ -65,6 +73,7 @@ article {
     font-size: 24px;
     text-align: center;
     padding: 10px 75px 10px 75px;
+    margin: 15px 40px 30px 50px;
 }
 
 footer {
@@ -78,6 +87,7 @@ footer a {
 
 footer p {
     font-size: 24px;
+    margin:35px 250px 30px 125px;
 }
 
 .hed {
